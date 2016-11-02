@@ -1,9 +1,9 @@
 # MiniProject-Minesweeper
 DSA MINIPROJECT
 
-MIS NO> - 111503027
-Name -  Abhishek Jadhav
-Branch/Batch - S.Y.Comp (S2)
+MIS NO. - 111503027 <br/>
+Name -  Abhishek Jadhav <br/>
+Branch/Batch - S.Y.Comp (S2) <br/>
 
 Features :
    This game will have four difficulty levels. One of them will be custom, in which user will select the number of rows, columns and mines.
